@@ -1,0 +1,7 @@
+C:\Users\Code\source\repos\Code_Academy_HR_System\Code_Academy_HR_System\bin\Debug\Code_Academy_HR_System.exe.config
+C:\Users\Code\source\repos\Code_Academy_HR_System\Code_Academy_HR_System\bin\Debug\Code_Academy_HR_System.exe
+C:\Users\Code\source\repos\Code_Academy_HR_System\Code_Academy_HR_System\bin\Debug\Code_Academy_HR_System.pdb
+C:\Users\Code\source\repos\Code_Academy_HR_System\Code_Academy_HR_System\obj\Debug\Code_Academy_HR_System.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Code_Academy_HR_System\Code_Academy_HR_System\obj\Debug\Code_Academy_HR_System.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\Code_Academy_HR_System\Code_Academy_HR_System\obj\Debug\Code_Academy_HR_System.exe
+C:\Users\Code\source\repos\Code_Academy_HR_System\Code_Academy_HR_System\obj\Debug\Code_Academy_HR_System.pdb
